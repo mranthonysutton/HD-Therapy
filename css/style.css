@@ -1,0 +1,75 @@
+body {
+  overflow-x: hidden;
+}
+
+.primary-color {
+  color: #213f3f;
+}
+
+.btn-danger {
+  background-color: #213f3f;
+  border-color: #283044 !important;
+}
+
+.btn-danger:hover {
+  background-color: #283044;
+}
+
+/* NAVBAR */
+.navbar {
+  background-color: #283044 !important;
+}
+
+/* SHOWCASE SLIDER */
+.carousel-item {
+  height: 450px;
+}
+
+.carousel-image-1 {
+  background: url(../images/image1.jpg);
+  background-size: cover;
+}
+
+.carousel-image-2 {
+  background: url(../images/image2.jpg);
+  background-size: cover;
+}
+
+.carousel-image-3 {
+  background: url(../images/image3.jpg);
+  background-size: cover;
+}
+
+#main-footer {
+  height: 100px;
+  background: #283044;
+}
+
+.footer {
+  color: #fbfcff;
+}
+
+.footer-copyright {
+  margin: 0px;
+  font-style: italic;
+  font-size: 0.8em;
+  color: #fbfcff;
+}
+
+.footer-copyright a {
+  text-decoration: underline;
+  color: #fbfcff;
+}
+
+.footer-copyright a:hover {
+  font-weight: bold;
+}
+
+.social-media {
+  color: #fbfcff;
+}
+
+.social-media:hover {
+  color: #d0ccd0;
+  font-weight: bold;
+}
